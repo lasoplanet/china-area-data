@@ -1,0 +1,22 @@
+{
+  "name": "china-area-data",
+  "version": "1.0.0",
+  "description": "中国省市区行政划分数据",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lasoplanet/china-area-data.git"
+  },
+  "keywords": [
+    "省市区"
+  ],
+  "author": "ybw_daisy@163.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lasoplanet/china-area-data/issues"
+  },
+  "homepage": "https://github.com/lasoplanet/china-area-data#readme"
+}
